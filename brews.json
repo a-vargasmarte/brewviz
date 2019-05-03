@@ -1,0 +1,101 @@
+date,ABV,brewName,style,brewery,name,creditCard,email,purchase,saleType
+2019-01-02,5.7,IPA #11,BREW MASTER,CHEBOYGAN BREWING CO.,Reed Inc,180026477662982,khandeborah@yahoo.com,70.75,draught
+2019-01-03,5.5,BACK ALLEY PORTER,,FIRST STREET BRWEING CO.,Scott-Fuller,4547562019036152,kimberlygaines@yahoo.com,23.06,draught
+2019-01-06,5.0,ERNEST IPA,"Rich, complex golden ale,  apricot, citrus & spice characteristics",ACORN,Norman-Shaw,4276742718499,nunderwood@kim.biz,63.07,draught
+2019-01-06,4.5,BAD DAY AT THE OFFICE,Pale session IPA,ALECHEMY,Simpson Inc,376660848256225,jeanetteburgess@hotmail.com,38.75,bottles or cans
+2019-01-07,9.5,WHITTLE WEE HEAVY,ENGLISH,TROUT TOWN,Garcia-Leon,4754420478628,kristi17@rodgers-morris.biz,78.91,bottles or cans
+2019-01-08,5.5,BROWN ALE,AMERICIAN,TROUT TOWN,Ewing and Sons,6011879049056030,fglenn@hotmail.com,24.0,draught
+2019-01-11,6.8,ASSUMPTION SAISON,FARMHOUSE,FIRST STREET BRWEING CO.,Weiss Group,348836222401711,hernandezevelyn@dickerson.com,87.68,bottles or cans
+2019-01-13,6.0,Bollywood Blonde,Blonde,Arbor Brewing company Beers,"Brown, Watson and Andrews",6011456623207998,christopherwright@gmail.com,77.82,bottles or cans
+2019-01-13,6.6,TWO RIVERS RYE,AMERICIAN,TROUT TOWN,Perkins Ltd,30192367132296,olsenadam@green.com,37.51,draught
+2019-01-13,5.4,DLD DUNKELWEIZEN,GERMANY,FIRST STREET BRWEING CO.,"Wright, Williams and Mendez",4008586485908075,susanvalentine@obrien.org,36.85,bottles or cans
+2019-01-17,4.8,WET RY'D,MICHIGAN,CHEBOYGAN BREWING CO.,"Lawson, Rodriguez and Ramirez",180062205588942,marc20@frederick.info,80.42,bottles or cans
+2019-01-18,6.8,Sacred Cow IPA,IPA,Arbor Brewing company Beers,Moore-Martin,5115990487067905,tholt@hotmail.com,39.65,bottles or cans
+2019-01-21,6.6,BAPAJACK'S BIERE DE GRADE,NEW,FIRST STREET BRWEING CO.,"Ingram, Sullivan and Contreras",5374455122083499,schmidtjacob@gmail.com,86.38,bottles or cans
+2019-01-21,5.0,AMERICIAN AMBER ALE,AMERICIAN,TROUT TOWN,Villa Inc,869930676434762,jason24@gardner-anderson.com,72.45,draught
+2019-01-21,5.5,CHAMELEON SERIES,,LITTLE Critters Brewing Company,Burnett Ltd,3158663456056588,chambersmichael@gmail.com,33.62,bottles or cans
+2019-01-24,8.25,IMPERIAL CINNAMON HEFEWEIZEN,GERMAN,CHEBOYGAN BREWING CO.,Martinez-Wilson,4942281854569455,shane21@atkinson.com,56.63,bottles or cans
+2019-01-25,5.0,BIG BRO APA,American pale ale,4T's BREWERY,Hall and Sons,345049869053000,lserrano@donovan-brown.biz,8.67,draught
+2019-01-25,5.2,SALLY POLLARDS ABSTRACT MAIDEN,Strong pale ale brewed with the help of the Festival Cellar team,ABSTRACT JUNGLE,Robinson-Vargas,4215761669097552,david80@hotmail.com,33.92,bottles or cans
+2019-01-26,4.5,RED SAIL ALE,AMERICAN,CHEBOYGAN BREWING CO.,Miles Inc,4981497027087090,salazarpatricia@yahoo.com,19.63,bottles or cans
+2019-01-26,5.5,BACK ALLEY NITRO,,FIRST STREET BRWEING CO.,"Atkinson, Conway and Young",3096412225633417,cwalsh@gmail.com,51.21,draught
+2019-01-26,3.9,PRIDE,Crisp and clean pale session bitter,ABSTRACT JUNGLE,"Fletcher, Spencer and Caldwell",374818667778230,brianahamilton@gmail.com,35.01,bottles or cans
+2019-01-27,4.3,SHIRE HORSE,ENGLISH ALE,LITTLE Critters Brewing Company,"Santana, Montes and Pierce",6011833038852776,zstephenson@smith.info,30.33,draught
+2019-01-29,4.1,WALKERS RESURRECTION,Old ale,4T's BREWERY,"Robinson, Johnston and Valdez",4351359627548412,amendez@yahoo.com,49.04,draught
+2019-01-30,4.6,CASUAL,Bold complex stout using unrefined chocolate,ABSTRACT JUNGLE,Taylor-Rojas,30077423594250,jeffrey05@yahoo.com,86.56,bottles or cans
+2019-01-31,5.0,NH ALE,MIX OF AMERICIAN AND ENGLISH HOPS,605 BREWERY,"Higgins, Cardenas and Kennedy",869972604798355,amorales@yahoo.com,10.41,draught
+2019-01-31,9.2,WOOD DEVIL DOUBLE IPA,AMERICAN AND EURO,609 BREWERY,Coleman-Thompson,60441789637,timothy88@morris.com,65.85,draught
+2019-02-01,3.7,BLACK X BITTER,Bitter / Mild hybrid,AIRE HEADS,Moore-Hall,3088798824982514,arellanopatrick@thomas.net,19.56,bottles or cans
+2019-02-03,6.8,Second Sun,Americian Wild Ale,Arbor Brewing company Beers,Keller PLC,4603635169938574,caitlin57@yahoo.com,8.93,bottles or cans
+2019-02-03,6.0,OKTOBERFEST,"MUNCH, GERMANY",CHEBOYGAN BREWING CO.,Nicholson Group,4614997834548,ashley12@hotmail.com,94.14,draught
+2019-02-06,,JUSA PORTER,STOUT,CHEBOYGAN BREWING CO.,"Sweeney, Miller and Castaneda",30508996615114,stephanie90@wells-carlson.info,13.89,draught
+2019-02-07,5.0,WATERVILLE WHEAT,ENGLISH NOBLE,606 BREWERY,Underwood-Morgan,4529081312229,stewartwilliam@hotmail.com,82.48,draught
+2019-02-09,7.0,ICE OUT,BELGIAN,611 BREWERY,Vaughan-Daniel,3337792525603205,lindseyturner@walton.org,87.05,draught
+2019-02-09,5.6,FIRST STREET WHITE ALE,BELGIAN,FIRST STREET BRWEING CO.,Matthews-Meyer,6011488855778396,phillipallison@martinez-thomas.com,51.79,bottles or cans
+2019-02-09,8.0,TWO HEADED STOUT,ENGLISH,TROUT TOWN,"Jones, Perez and Cole",3112101128292245,destiny15@wallace-moore.info,76.89,draught
+2019-02-09,6.0,NUTTY AMBASSADOR,ENGLISH ALE,LITTLE Critters Brewing Company,Morris PLC,4749728852401144,james07@yahoo.com,85.31,draught
+2019-02-10,6.2,Treebeard IPA,Pale Ale,Arbor Brewing company Beers,Garcia-Steele,180069437020404,amanda39@yahoo.com,71.78,draught
+2019-02-10,8.2,TOASTED PUMPKIN ALE,AMERICIAN AND ENGLISH,614 BREWERY,"White, Reese and Arnold",4707246703256,leedaisy@simmons-gutierrez.org,40.4,draught
+2019-02-14,5.9,Bliss Wheat,Wheat Beer,Arbor Brewing company Beers,"Williams, Marshall and Buchanan",6011578504430710,brent16@olson-robinson.info,78.04,bottles or cans
+2019-02-15,7.0,Barrel Aged EIK ZON IPA,Sour,Arbor Brewing company Beers,"Simpson, Williams and Pham",675957666125,amymiller@morales-harrison.com,0.95,draught
+2019-02-17,5.2,QUEEN CITY KOLSCH,"COLOGNE, GERMANY LARGER",FIRST STREET BRWEING CO.,Sanchez PLC,4237333090755,zrocha@glenn.org,97.01,draught
+2019-02-17,7.7,Framboozled,Sour,Arbor Brewing company Beers,Galloway and Sons,180041795790001,kdavis@rasmussen.com,59.54,draught
+2019-02-19,4.3,5IVE SISTERS,Amber best bitter,ALECHEMY,"Parker, Nelson and Delgado",3528362130154694,crawfordwilliam@yahoo.com,17.2,bottles or cans
+2019-02-21,5.0,WHITE WOLF,AMERICAN ALE,LITTLE Critters Brewing Company,Turner-Mckinney,676343504830,ruiznicole@gmail.com,58.39,draught
+2019-02-24,4.4,Cucumber Lime Gose,"Gose,Kettle Sour",Arbor Brewing company Beers,Gibson and Sons,6011398782655569,olivia04@yahoo.com,88.56,bottles or cans
+2019-02-25,4.5,SUMMATIME PALE ALE,AMERICIAN,613 BREWERY,"Turner, Juarez and Barnes",4107899971187,diazronald@gmail.com,17.65,bottles or cans
+2019-02-28,8.8,BELGIAN DUBBEL,BELGIUM,CHEBOYGAN BREWING CO.,Hanna-Grant,180042289507877,saundersernest@walsh.com,9.77,bottles or cans
+2019-03-01,6.2,EAGLE IPA,AMERICIAN IPA ,TROUT TOWN,Evans LLC,4048210894501098,wjones@yahoo.com,44.11,draught
+2019-03-02,5.2,POPULAR BLONDE NITRO,UNIQUE BLONDE ALE,FIRST STREET BRWEING CO.,Brown-Brown,30124451554465,wmckenzie@gmail.com,53.99,bottles or cans
+2019-03-05,4.2,Blonde Bear,,LITTLE Critters Brewing Company,"Fernandez, Melton and Gilbert",3337515540944084,stacymitchell@hall.com,58.68,bottles or cans
+2019-03-05,4.5,SUMMALIME,AMERICIAN,612 BREWERY,Marshall-Fernandez,349767747049645,sweeneyhannah@jones.biz,20.43,bottles or cans
+2019-03-06,4.2,JACKAL,Traditional porter made with four different malts,ABSTRACT JUNGLE,Ortiz and Sons,4689681072647,jilliancarr@fleming.info,46.63,bottles or cans
+2019-03-07,5.9,LA CERVEZA,AMERICIAN PALE ALE,CHEBOYGAN BREWING CO.,Mills-Stewart,4262383666841320,laurahess@hotmail.com,8.43,draught
+2019-03-07,5.25,LIGHTHOUSE AMBER,GERMAN,CHEBOYGAN BREWING CO.,"Stephens, Johnson and Combs",60488441233,mlogan@gmail.com,17.75,bottles or cans
+2019-03-08,7.5,RAINBOW RED ALE,INDIA RED,TROUT TOWN,"Cruz, Barrett and Fisher",4115398853010199,joshuahoffman@gmail.com,47.82,bottles or cans
+2019-03-08,5.2,POPULAR BLONDE,UNIQUE BLONDE ALE,FIRST STREET BRWEING CO.,Jackson-Allen,869978354045368,gregorygarner@chambers.com,18.69,bottles or cans
+2019-03-08,9.5,Violin Monster,Specialty,Arbor Brewing company Beers,"Stanton, Villanueva and Swanson",676121145525,griffincatherine@wilson.com,84.44,draught
+2019-03-12,6.6,WHITE PEAKS IPA,AMERICAN,607 BREWERY,Sims-Lyons,3158113629128344,adkinsarthur@yahoo.com,48.74,bottles or cans
+2019-03-13,8.0,GRANITE STOUT,MIX OF AMERICIAN AND ENGLISH HOPS,604 BREWERY,Meza Group,3088085017234428,greenjulian@hotmail.com,76.49,bottles or cans
+2019-03-14,5.0,MAFKA Barrel Aged Sour Ale,"Sour, Specialty",Arbor Brewing company Beers,Kim-Oliver,869975209012056,johnnymiller@coleman.com,19.26,draught
+2019-03-14,7.2,BIG DADDY IPA,Strong hoppy IPA,4T's BREWERY,Perez PLC,210052619871160,michael46@yahoo.com,77.5,draught
+2019-03-15,4.5,RED OAK,"Rich red coloured, smooth & malty, citrus fruit & spice aromas",ACORN,"Salazar, Harris and Webster",5144649980077788,jordanmichelle@watkins.com,0.61,draught
+2019-03-15,7.4,FIRST SMOKED PORTER,AMERICIAN,610 BREWERY,"Decker, Wilson and Brown",210066586272145,udavis@howe.com,10.87,draught
+2019-03-16,4.4,SIGNATURE,"Very Pale, Sweet and malty ",1648 BREWERY,Morgan-Fleming,3337080082881103,danielwilliams@beasley-murphy.net,38.88,bottles or cans
+2019-03-18,6.6,WINNI ALE,AMERICAN,608 BREWERY,"Taylor, Lloyd and Aguilar",3088511373952816,albert68@lawrence-warren.biz,77.67,draught
+2019-03-19,5.25,BLACK CHERRY VANILLA PORTER,,CHEBOYGAN BREWING CO.,"Morgan, Dunlap and Lopez",4488424222907706,mdavis@carey-davis.com,89.6,draught
+2019-03-24,4.0,DARK,Dark Ruby Ale with an inviting of roast malt and fruit,9 LIVES,Guerrero PLC,4276544900618,jenniferolson@weber-williams.com,75.34,bottles or cans
+2019-03-24,5.5,Euchre Pilsner,"Larger, Pilsner",Arbor Brewing company Beers,Marshall-Collins,561252141909,phillip48@parks.info,44.25,draught
+2019-03-25,3.7,HOP POCKET,"Light India pale ale, clean, hoppy and refreshing",1648 BREWERY,Jacobs-Tucker,6011343518820988,eperez@hotmail.com,57.34,draught
+2019-03-26,4.6,BEE HEAD,"Honey colour, flavoured with Sussex Downs Blossom Honey",1648 BREWERY,"Benson, Smith and Stevenson",4423155549717604,cdean@gmail.com,31.49,draught
+2019-03-28,4.2,LIFE OF BRIAN,Chocolate vanilla porter brewed for Brian Moore's 78th birthday,ABSTRACT JUNGLE,Martinez Ltd,5281638399252044,timothy25@yahoo.com,47.67,draught
+2019-03-28,7.2,KING CROW,ENGLISH ALE,LITTLE Critters Brewing Company,Cruz Inc,502010078983,ltaylor@gardner-meadows.com,97.97,draught
+2019-03-29,3.6,LITTLE HOPPER,ENGLISH ALE,LITTLE Critters Brewing Company,Saunders-Mendez,869938033091779,madison41@mooney.com,6.25,draught
+2019-03-30,3.8,FESTIVALE,Copper colour with a refreshing fruity flavour,1648 BREWERY,"Hayes, Vance and Anderson",869934742446636,patricia86@reyes.com,43.33,bottles or cans
+2019-03-30,5.0,BLUEBERRY CREAM ALE,BLUE BERRY,CHEBOYGAN BREWING CO.,Goodwin Ltd,4170734785397597,stonekaren@yahoo.com,82.16,bottles or cans
+2019-04-01,5.7,BLOOD ORANGE HONEY,AMERICIAN,CHEBOYGAN BREWING CO.,"Levine, Shaw and Jenkins",869948145612941,michael35@hotmail.com,39.4,draught
+2019-04-03,6.5,C MONSTER,,LITTLE Critters Brewing Company,Guzman-Reese,5491255326230898,rsmith@hotmail.com,90.93,draught
+2019-04-04,5.7,Mackinac Island Fudge Stout,Stout,Arbor Brewing company Beers,"Strickland, Michael and Gonzales",180036417827355,ustewart@hotmail.com,96.89,draught
+2019-04-05,6.6,18 MILE RYE PALE ALE,MIX OF AMERICIAN AND ENGLISH HOPS,603 BREWERY,"Howard, Garcia and Jones",4332227215237678,vincentgriffith@cook-castillo.com,93.22,draught
+2019-04-06,8.0,DARWIN'S THEORY,ENGLISH,TROUT TOWN,Floyd Group,30570877809646,hancockphilip@wiley.net,33.86,bottles or cans
+2019-04-07,6.1,INTER OCEAN IPA,CASCADE AND COLUMBUS,FIRST STREET BRWEING CO.,Esparza Ltd,30003479457184,aprilorr@yahoo.com,8.58,bottles or cans
+2019-04-09,4.6,Kick Out The Jam,Sour,Arbor Brewing company Beers,"Rivera, Buchanan and Ramirez",4396283918371,qcoleman@hunt-huerta.com,95.63,bottles or cans
+2019-04-10,4.6,KIRBY YOUR ENTHUSIASM,Full flavoured pale,AIRE HEADS,Knight LLC,60498172646,mannlisa@yahoo.com,77.51,bottles or cans
+2019-04-11,6.8,CHOCOLATE COVERED CHERRY STOUT,STOUT,CHEBOYGAN BREWING CO.,Mora Ltd,6011049630969815,hgonzalez@mcdowell.com,97.46,draught
+2019-04-11,4.6,PILSNER,Cask Pilsner,4T's BREWERY,Fowler Inc,3096082589629929,emilygreen@yahoo.com,60.69,draught
+2019-04-13,6.3,Arbor Cheery Cider,Cider,Arbor Brewing company Beers,"Fletcher, Richards and Whitaker",3337758169645356,anthony41@reed.com,70.73,bottles or cans
+2019-04-15,4.5,Sleepy Badger,ENGLISH ALE,LITTLE Critters Brewing Company,"Beard, Abbott and Pena",6011350184276270,hannah63@yahoo.com,70.15,bottles or cans
+2019-04-15,7.7,Strawberry Blonde,Blonde,Arbor Brewing company Beers,"Leach, Howe and Ferguson",869967499275071,aburns@yahoo.com,24.18,draught
+2019-04-15,4.5,LOGGER,BOHEMIAN,TROUT TOWN,Martin-Carlson,6011247468571287,kathryn33@johnson.info,83.27,bottles or cans
+2019-04-16,5.6,STURDY IPA,A classic style IPA using big hitting American hops,ABSTRACT JUNGLE,"Williams, Goodman and Morris",4748275281424579,psimmons@harrison-brown.info,73.41,draught
+2019-04-17,5.0,BLACK CHERRY SAISON,Black fruit saison,ALECHEMY,"Harper, Patrick and Richards",4913535442412,amandastewart@gmail.com,50.6,draught
+2019-04-17,4.2,LAMMAS ALE,"Clear amber, celebrating the first harvest ",1648 BREWERY,Hampton Group,3096955150599680,eric14@yahoo.com,20.77,bottles or cans
+2019-04-17,7.5,Buzzsaw American IPA,IPA,Arbor Brewing company Beers,Silva-Anderson,30246185196287,ynguyen@gmail.com,25.15,draught
+2019-04-18,4.2,WARRINGTON SPECIAL BITTER,Fruity bitter with a deep bitter after taste,4T's BREWERY,Moyer LLC,639054559864,amberramos@yahoo.com,46.45,draught
+2019-04-22,9.2,10 BLINKS Cheery Saison,Saison,Arbor Brewing company Beers,Martinez-Herman,6011929061123406,pdunlap@yahoo.com,98.14,bottles or cans
+2019-04-23,5.5,YUZU,PERHAPS SUMMER,CHEBOYGAN BREWING CO.,"Bryant, Hubbard and Gonzales",210094965373094,djennings@boyd-english.org,30.07,bottles or cans
+2019-04-24,4.8,SUMMER BLONDE,,TROUT TOWN,Riley PLC,4423224303743,brentbarajas@hotmail.com,61.47,bottles or cans
+2019-04-24,4.3,THORNBERRY'S BEST,ENGLISH ALE,FIRST STREET BRWEING CO.,Diaz-Farrell,210095502370279,pruittjohn@allen.com,58.66,draught
+2019-04-25,4.5,RESTLESS,Hop hitter with bags of Simcoe and Amarillo hops,ABSTRACT JUNGLE,Copeland-Lee,639032576097,nrogers@brown.com,78.86,draught
+2019-04-27,4.4,EASY AMERICAN BROWN,Biscuit caramel & chocolate notes with subtle cascade flavours,ABSTRACT JUNGLE,Figueroa-Jones,4505820111106,thomas17@smith-brown.info,90.0,draught
+2019-04-29,5.0,GOLD ANGEL,"Bright Gold, Full bodied flavour with a gentle citrus hop flavour",1648 BREWERY,Bush and Sons,4967640718082,davidsutton@hotmail.com,87.81,draught
